@@ -32,9 +32,9 @@ font:bold,100%,Cursiva;
 
 header{
  background:url("sv1.jpg");
- background-size:100%;
+ background-size:150%;
  background-repeat: no-repeat;
- padding-bottom:15%;
+ padding-bottom:5%;
  font-weight:200px;
 }
 
